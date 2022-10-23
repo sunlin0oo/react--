@@ -1,0 +1,4 @@
+/* // 支持cssModule导入，文件名必须是xxx.module.css/scss */
+.login{
+    color: red;
+}
